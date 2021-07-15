@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kmoh786
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C++ with Qt creator
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me khalil777@live.com
